@@ -21,6 +21,7 @@ module.exports = {
       darkTheme: darkCodeTheme,
     }
   },
+  themes: ['@docusaurus/theme-live-codeblock'],
   presets: [
     ["@docusaurus/preset-classic",{
       docs: {
