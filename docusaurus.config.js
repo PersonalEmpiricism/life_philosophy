@@ -8,7 +8,7 @@ module.exports = {
   tagline: "Dinosaurs are cool",
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
-  baseUrl: "/",
+  baseUrl: "/life_philosophy/",
   url: "https://your-docusaurus-test-site.com",
   favicon: "img/favicon.ico",
   organizationName: "facebook", // Usually your GitHub org/user name.
